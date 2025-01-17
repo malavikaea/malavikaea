@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi there👋, I'm Malavika EA </h1>
 
 - 👩🏻‍💻 I’m a BTech student at Adi Shankara Institute Of Engineering And Technology.
