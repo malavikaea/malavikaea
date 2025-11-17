@@ -9,7 +9,6 @@
 ### 💼 About Me
 
 - 🌱 Currently learning **Full Stack Development** & **Machine Learning**
-- 🧠 Preparing for placements with a focus on **DSA in Python**
 - 💬 Ask me about anything tech, or student life at KTU!
 
 ---
