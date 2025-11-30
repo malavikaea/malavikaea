@@ -8,7 +8,7 @@
 
 ### 💼 About Me
 
-- 🌱 Currently learning **Full Stack Development** & **Machine Learning**
+- 🌱 Currently learning **MERN Stack Development** & **Machine Learning**
 - 💬 Ask me about anything tech, or student life at KTU!
 
 ---
