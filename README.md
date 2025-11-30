@@ -25,19 +25,13 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🌦️ [Weather App](https://malavikaea.github.io/Weather/) | Fetches real-time weather by city | HTML, CSS, JS |
+| 🌦️ [Weather App] | Fetches real-time weather by city | HTML, CSS, JS |
 | 🤖 Chatbot UI | Emoji-based chatbot with mood tracking & Spotify links | React, Firebase |
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malavikaea&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malavikaea&theme=tokyonight" width="48%" />
-</p>
 
----
 
 ### 📫 Connect With Me
 
