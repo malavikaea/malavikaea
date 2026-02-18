@@ -21,14 +21,6 @@
 
 ---
 
-### 🧪 Current Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🌦️ [Weather App] | Fetches real-time weather by city | HTML, CSS, JS |
-| 🤖 Chatbot UI | Emoji-based chatbot with mood tracking & Spotify links | React, Firebase |
-
----
 
 
 
